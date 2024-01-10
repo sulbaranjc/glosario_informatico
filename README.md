@@ -4,7 +4,7 @@ Este glosario es un proyecto colaborativo desarrollado por estudiantes y supervi
 
 ## ¿Cómo Contribuir?
 
-Si eres un alumno interesado en contribuir, por favor revisa nuestro archivo [CONTRIBUTING.md](enlace-al-archivo) para conocer las normas y el proceso de contribución.
+Si eres un alumno interesado en contribuir, por favor revisa nuestro archivo [CONTRIBUTING.md](https://github.com/sulbaranjc/glosario_informatico/blob/main/CONTRIBUTING.md) para conocer las normas y el proceso de contribución.
 
 ## Uso del Glosario
 
