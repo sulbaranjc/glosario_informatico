@@ -1,6 +1,6 @@
 # Glosario de Términos Informáticos
 
-Este documento es un glosario de términos informáticos, creado y mantenido por [nombre del profesor] y sus alumnos. El objetivo es proporcionar definiciones claras y concisas de varios términos utilizados en el campo de la informática.
+Este documento es un glosario de términos informáticos, creado y mantenido por los profesores [Victor Rodriguez y Juan Carlos Sulbaran] y sus alumnos. El objetivo es proporcionar definiciones claras y concisas de varios términos utilizados en el campo de la informática.
 
 ## Índice
 - [Backend](#backend)
