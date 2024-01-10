@@ -1,6 +1,6 @@
 # Glosario de Términos Informáticos
 
-Este glosario es un proyecto colaborativo desarrollado por estudiantes y supervisado por [Tu Nombre], con el objetivo de crear una referencia completa y accesible de términos informáticos.
+Este glosario es un proyecto colaborativo desarrollado por estudiantes y supervisado por [Juan Carlos Sulbaran y Victor Rodriguez], con el objetivo de crear una referencia completa y accesible de términos informáticos.
 
 ## ¿Cómo Contribuir?
 
