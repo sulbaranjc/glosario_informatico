@@ -4,6 +4,7 @@ Este documento es un glosario de términos informáticos, creado y mantenido por
 
 ## Índice
 - [Backend](#backend)
+- [Frontend](#frontend)
 - [Despliegue](#despliegue)
 - [Frontend](#frontend)
 - [IDE](#ide)
@@ -13,6 +14,9 @@ Este documento es un glosario de términos informáticos, creado y mantenido por
 
 ## Backend
 El backend se refiere a la parte del software que no interactúa directamente con el usuario. Generalmente, gestiona la lógica de negocio y las interacciones con la base de datos.
+
+## Frontend
+El Frontend se refiere a la parte de un sistema informático o aplicación responsable de la interfaz de usuario y la presentación visual, abarcando diseño y programación para lograr una experiencia interactiva. En resumen, es la cara visible con la que los usuarios interactúan directamente.
 
 ## Despliegue
 El despliegue es el proceso de distribuir una aplicación para que esté disponible para los usuarios. Incluye varias fases, desde la prueba hasta la puesta en marcha en un entorno de producción.
